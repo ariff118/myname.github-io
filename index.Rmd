@@ -1,0 +1,20 @@
+---
+title: ""
+---
+  
+<link rel="stylesheet" href="styles.css" type="text/css">
+    
+
+<img src="images/profile1.jpeg" style="width:20%; border:10px solid" align="center">|  
+ 
+**Kamarul Ariffin Mansor**  
+**Senior Lecturer**  
+**Faculty of Computer and Mathematical Sciences**  
+**UiTM Kedah Branch Campus**  
+---  
+      
+**BACKGROUND** 
+ 
+I like to analyze data to answer research questions and test hypotheses. Currently I investigate questions related to Tuberculosis (TB) through my work as a Statistical Research Member at the Faculty of Computer and Mathematical Sciences, [UiTM Kedah](https://kedah.uitm.edu.my/v1/faculties-a-academic-centres/computer-a-mathematical-sciences).
+I graduated from the [University of Kentucky](https://math.as.uky.edu/) with a BSc in Mathematics in 1992. In 2010 I began working toward my MSc in Decision Sciences as a part-time student at [Universiti Utara Malaysia](http://www.sqs.uum.edu.my/index.php/en/), under the School of Quantitative Sciences, College of Art and Sciences (CAS), where I did my partial thesis paper in Structural Eqauation Modeling (SEM) under the advisement of [Assoc. Prof. Dr. Zahayu Md Yusof](http://expertise.uum.edu.my/DOE/doe_view.aspx?ad_doe=zahayu). I graduated from UUM at the end of 2012.  
+I am a beginner in R and being an active member of [Malaysian R User Public 

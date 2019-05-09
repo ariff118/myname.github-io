@@ -1,0 +1,16 @@
+name: “Kamarul Ariffin Mansor"
+output_dir: "."
+navbar:
+  title: “My Website"
+  left:
+    - text: "Home"
+      href: index.html
+ 
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
